@@ -1,0 +1,5 @@
+{
+  "name": "BaseCard",
+  "description": "The onchain business card platform for builders. Connect identity, trust, and opportunity on Base.",
+  "requestFramePermissions": []
+}
